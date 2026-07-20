@@ -1,0 +1,7 @@
+Carrier ID,Carrier Name,HQ Country,Country Code,Founded Year,Fleet Size,Max TEU Capacity,Credit Rating,Contact Email,Avg Rating (1-5),Status
+CAR001,Maersk,Denmark,DK,1904,700,150000,AAA,contact@maersk.com,4.7,Active
+CAR002,MSC,Switzerland,CH,1970,580,130000,AA+,contact@msc.com,4.5,Active
+CAR003,CMA CGM,France,FR,1978,500,112000,AA,contact@cmacgm.com,4.4,Active
+CAR004,Hapag-Lloyd,Germany,DE,1847,250,81000,AA-,contact@hapag-lloyd.com,4.6,Active
+CAR005,Evergreen,Taiwan,TW,1968,200,68000,A+,contact@evergreen.com,4.3,Active
+CAR006,ONE,Japan,JP,2018,220,75000,A,contact@one-line.com,4.2,Active

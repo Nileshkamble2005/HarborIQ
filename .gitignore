@@ -1,0 +1,39 @@
+# ============================================================
+# HarborIQ — .gitignore
+# ============================================================
+
+# ── Large raw data files (exceed GitHub's 100MB limit) ───
+Dataset/shipments.csv
+Dataset/cleaned_shipments.csv
+
+# ── Python cache & environment ────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter Notebook checkpoints ─────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── OS generated files ────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE / Editor files ────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Logs & temp files ─────────────────────────────────────
+*.log
+*.tmp
+*.bak

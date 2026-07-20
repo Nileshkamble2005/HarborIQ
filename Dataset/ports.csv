@@ -1,0 +1,8 @@
+port_id,port_name,city,country_code,country_full,port_type,annual_capacity_teu
+PORT001,Port of Los Angeles,Los Angeles,US,United States,Container,"9,337,000"
+PORT002,Port of Rotterdam,Rotterdam,NL,Netherlands,Container/Bulk,"14,791,000"
+PORT003,Port of Dubai (Jebel Ali),Dubai,AE,United Arab Emirates,Container,"13,627,000"
+PORT004,Port of Hamburg,Hamburg,DE,Germany,Container,"8,731,000"
+PORT005,Port of Shanghai (Yangshan),Shanghai,CN,China,Container,"47,030,000"
+PORT006,Port of Singapore,Singapore,SG,Singapore,Container,"37,195,000"
+PORT007,Port of Busan,Busan,KR,South Korea,Container,"22,706,000"

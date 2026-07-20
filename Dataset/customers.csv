@@ -1,0 +1,301 @@
+customer_id,company_name,country,phone,email,registration_year,credit_tier
+CUST0001,GreenPath Exports,DE,+4-859-5614226,greenpathexp@yahoo.com,2011,Silver
+CUST0002,SilkRoute Trading,DE,+87-858-2458591,silkroutetra@trade.org,2014,Gold
+CUST0003,PacificRim Logistics,US,+12-323-4903402,pacificrimlo@trade.org,2017,Gold
+CUST0004,AtlanticCargo Co,GB,+26-833-8038374,atlanticcarg@yahoo.com,2015,Bronze
+CUST0005,Nordic Trade Ltd,US,+98-925-3678638,nordictradel@biz.com,2014,Bronze
+CUST0006,Horizon Freight,CN,+20-320-6647119,horizonfreig@gmail.com,2009,Platinum
+CUST0007,Delta Distributors,DE,+46-967-6770619,deltadistrib@trade.org,2012,Gold
+CUST0008,Pinnacle Imports,FR,+69-227-7350753,pinnacleimpo@gmail.com,2016,Bronze
+CUST0009,RedStar Exports,JP,+47-691-4226067,redstarexpor@biz.com,2009,Gold
+CUST0010,Summit Supply Chain,AE,+99-396-2338687,summitsupply@yahoo.com,2009,Platinum
+CUST0011,ClearWater Trading,CN,+59-750-7120868,clearwatertr@yahoo.com,2013,Bronze
+CUST0012,TropicCargo Ltd,AE,+86-373-2197935,tropiccargol@trade.org,2018,Silver
+CUST0013,MidEast Traders,GB,+94-350-3741438,mideasttrade@company.net,2014,Bronze
+CUST0014,FarEast Imports,GB,+29-801-6440561,fareastimpor@gmail.com,2011,Gold
+CUST0015,WestCoast Freight,SG,+52-374-2110460,westcoastfre@yahoo.com,2017,Bronze
+CUST0016,EuroTrade GmbH,AE,+84-611-7637601,eurotradegmb@biz.com,2015,Silver
+CUST0017,AsiaLink Exports,CN,+18-352-5408072,asialinkexpo@biz.com,2017,Platinum
+CUST0018,GlobalMart Inc,JP,+52-470-4679591,globalmartin@yahoo.com,2016,Platinum
+CUST0019,PrimeCargo Solutions,DE,+97-148-2839607,primecargoso@yahoo.com,2018,Silver
+CUST0020,ArcticFreight,KR,+77-165-7455324,arcticfreigh@company.net,2017,Platinum
+CUST0021,SunRise Imports,GB,+33-666-1192619,sunriseimpor@biz.com,2019,Gold
+CUST0022,CrossOcean Ltd,GB,+97-373-6707197,crossoceanlt@gmail.com,2012,Platinum
+CUST0023,StarPort Traders,NL,+59-103-5418934,starporttrad@trade.org,2020,Silver
+CUST0024,MountainPeak Co,GB,+14-991-6007072,mountainpeak@biz.com,2016,Silver
+CUST0025,SilverLine Exports,NL,+48-880-3710343,silverlineex@trade.org,2020,Gold
+CUST0026,BlueSky Logistics,JP,+42-600-1326765,blueskylogis@gmail.com,2013,Bronze
+CUST0027,IronGate Trading,AE,+8-346-2321324,irongatetrad@gmail.com,2019,Platinum
+CUST0028,CopperCoast Inc,DE,+98-645-3109911,coppercoasti@yahoo.com,2018,Platinum
+CUST0029,GoldenRoute Ltd,GB,+22-371-9852897,goldenroutel@trade.org,2014,Silver
+CUST0030,BlueSea Imports 30,GB,+97-847-4374754,blueseaimpor@biz.com,2012,Platinum
+CUST0031,GreenPath Exports 31,SG,+57-629-8574680,greenpathexp@gmail.com,2011,Silver
+CUST0032,SilkRoute Trading 32,DE,+44-121-4860684,silkroutetra@trade.org,2011,Gold
+CUST0033,PacificRim Logistics 33,DE,+91-746-1987737,pacificrimlo@yahoo.com,2009,Gold
+CUST0034,AtlanticCargo Co 34,SG,+10-626-4993055,atlanticcarg@outlook.com,2018,Platinum
+CUST0035,Nordic Trade Ltd 35,AE,+70-235-8930103,nordictradel@yahoo.com,2020,Platinum
+CUST0036,Horizon Freight 36,KR,+25-196-2626229,horizonfreig@biz.com,2014,Bronze
+CUST0037,Delta Distributors 37,KR,+53-578-1908841,deltadistrib@biz.com,2018,Gold
+CUST0038,Pinnacle Imports 38,US,+52-845-6692553,pinnacleimpo@gmail.com,2011,Silver
+CUST0039,RedStar Exports 39,AE,+69-559-3351868,redstarexpor@company.net,2010,Bronze
+CUST0040,Summit Supply Chain 40,FR,+32-995-2264748,summitsupply@company.net,2020,Gold
+CUST0041,ClearWater Trading 41,US,+84-653-1247595,clearwatertr@gmail.com,2020,Silver
+CUST0042,TropicCargo Ltd 42,NL,+53-597-9075854,tropiccargol@yahoo.com,2014,Gold
+CUST0043,MidEast Traders 43,NL,+49-102-7550190,mideasttrade@outlook.com,2020,Platinum
+CUST0044,FarEast Imports 44,CN,+55-813-9164991,fareastimpor@yahoo.com,2011,Bronze
+CUST0045,WestCoast Freight 45,AE,+8-693-2022698,westcoastfre@biz.com,2013,Gold
+CUST0046,EuroTrade GmbH 46,US,+75-588-9436429,eurotradegmb@trade.org,2010,Gold
+CUST0047,AsiaLink Exports 47,GB,+11-971-4117625,asialinkexpo@gmail.com,2017,Gold
+CUST0048,GlobalMart Inc 48,AE,+52-222-5130808,globalmartin@trade.org,2017,Gold
+CUST0049,PrimeCargo Solutions 49,JP,+11-529-9770838,primecargoso@outlook.com,2012,Silver
+CUST0050,ArcticFreight 50,SG,+31-371-7640184,arcticfreigh@yahoo.com,2018,Bronze
+CUST0051,SunRise Imports 51,FR,+41-869-2217071,sunriseimpor@gmail.com,2015,Gold
+CUST0052,CrossOcean Ltd 52,DE,+69-318-9487336,crossoceanlt@outlook.com,2010,Bronze
+CUST0053,StarPort Traders 53,DE,+32-478-5781295,starporttrad@yahoo.com,2015,Bronze
+CUST0054,MountainPeak Co 54,JP,+84-641-1131249,mountainpeak@biz.com,2016,Bronze
+CUST0055,SilverLine Exports 55,DE,+18-370-2936571,silverlineex@gmail.com,2019,Silver
+CUST0056,BlueSky Logistics 56,CN,+37-719-4533779,blueskylogis@biz.com,2013,Silver
+CUST0057,IronGate Trading 57,CN,+65-600-5213115,irongatetrad@gmail.com,2009,Platinum
+CUST0058,CopperCoast Inc 58,CN,+6-103-6596150,coppercoasti@yahoo.com,2018,Bronze
+CUST0059,GoldenRoute Ltd 59,NL,+95-552-8175395,goldenroutel@trade.org,2008,Gold
+CUST0060,BlueSea Imports 60,DE,+89-252-1604451,blueseaimpor@outlook.com,2017,Silver
+CUST0061,GreenPath Exports 61,KR,+17-142-6171716,greenpathexp@outlook.com,2020,Gold
+CUST0062,SilkRoute Trading 62,SG,+27-798-5186414,silkroutetra@biz.com,2009,Bronze
+CUST0063,PacificRim Logistics 63,GB,+53-735-3592974,pacificrimlo@yahoo.com,2010,Silver
+CUST0064,AtlanticCargo Co 64,KR,+4-283-6573147,atlanticcarg@company.net,2020,Silver
+CUST0065,Nordic Trade Ltd 65,CN,+21-906-2813543,nordictradel@company.net,2008,Platinum
+CUST0066,Horizon Freight 66,AE,+26-936-8722606,horizonfreig@outlook.com,2012,Silver
+CUST0067,Delta Distributors 67,AE,+4-775-4240180,deltadistrib@company.net,2013,Bronze
+CUST0068,Pinnacle Imports 68,DE,+99-385-6891254,pinnacleimpo@biz.com,2016,Platinum
+CUST0069,RedStar Exports 69,GB,+43-128-2935113,redstarexpor@outlook.com,2010,Bronze
+CUST0070,Summit Supply Chain 70,US,+14-710-8290770,summitsupply@outlook.com,2019,Bronze
+CUST0071,ClearWater Trading 71,KR,+78-623-2940214,clearwatertr@company.net,2017,Silver
+CUST0072,TropicCargo Ltd 72,CN,+6-825-8315831,tropiccargol@gmail.com,2016,Silver
+CUST0073,MidEast Traders 73,SG,+56-171-6539837,mideasttrade@trade.org,2013,Gold
+CUST0074,FarEast Imports 74,CN,+65-416-7851696,fareastimpor@outlook.com,2014,Bronze
+CUST0075,WestCoast Freight 75,GB,+17-296-8053918,westcoastfre@biz.com,2014,Silver
+CUST0076,EuroTrade GmbH 76,JP,+73-408-7812810,eurotradegmb@trade.org,2008,Bronze
+CUST0077,AsiaLink Exports 77,CN,+27-540-6406444,asialinkexpo@company.net,2015,Platinum
+CUST0078,GlobalMart Inc 78,AE,+66-584-3846949,globalmartin@biz.com,2009,Bronze
+CUST0079,PrimeCargo Solutions 79,GB,+85-748-6623525,primecargoso@gmail.com,2020,Silver
+CUST0080,ArcticFreight 80,CN,+29-925-4340845,arcticfreigh@yahoo.com,2008,Gold
+CUST0081,SunRise Imports 81,AE,+61-725-2221854,sunriseimpor@company.net,2014,Silver
+CUST0082,CrossOcean Ltd 82,KR,+64-509-5093379,crossoceanlt@yahoo.com,2018,Gold
+CUST0083,StarPort Traders 83,DE,+55-324-3950888,starporttrad@biz.com,2016,Platinum
+CUST0084,MountainPeak Co 84,US,+72-355-3036059,mountainpeak@company.net,2010,Platinum
+CUST0085,SilverLine Exports 85,GB,+72-709-6323376,silverlineex@company.net,2017,Platinum
+CUST0086,BlueSky Logistics 86,GB,+58-262-8963715,blueskylogis@company.net,2012,Silver
+CUST0087,IronGate Trading 87,CN,+99-896-9745959,irongatetrad@company.net,2018,Silver
+CUST0088,CopperCoast Inc 88,CN,+57-179-5793722,coppercoasti@yahoo.com,2012,Bronze
+CUST0089,GoldenRoute Ltd 89,SG,+70-182-3321531,goldenroutel@yahoo.com,2011,Platinum
+CUST0090,BlueSea Imports 90,NL,+91-319-2077581,blueseaimpor@company.net,2014,Bronze
+CUST0091,GreenPath Exports 91,GB,+60-525-2044645,greenpathexp@yahoo.com,2014,Platinum
+CUST0092,SilkRoute Trading 92,JP,+90-120-7381734,silkroutetra@company.net,2008,Bronze
+CUST0093,PacificRim Logistics 93,CN,+97-499-8030010,pacificrimlo@trade.org,2019,Silver
+CUST0094,AtlanticCargo Co 94,FR,+29-379-8312114,atlanticcarg@company.net,2008,Platinum
+CUST0095,Nordic Trade Ltd 95,SG,+86-795-7783308,nordictradel@biz.com,2010,Platinum
+CUST0096,Horizon Freight 96,NL,+80-646-1452421,horizonfreig@company.net,2017,Gold
+CUST0097,Delta Distributors 97,DE,+83-538-3276659,deltadistrib@company.net,2010,Gold
+CUST0098,Pinnacle Imports 98,CN,+49-435-4551070,pinnacleimpo@company.net,2013,Bronze
+CUST0099,RedStar Exports 99,KR,+36-870-8072684,redstarexpor@outlook.com,2009,Platinum
+CUST0100,Summit Supply Chain 100,US,+96-652-1873851,summitsupply@outlook.com,2011,Gold
+CUST0101,ClearWater Trading 101,US,+97-131-5148725,clearwatertr@yahoo.com,2008,Silver
+CUST0102,TropicCargo Ltd 102,AE,+17-584-2919136,tropiccargol@trade.org,2011,Platinum
+CUST0103,MidEast Traders 103,CN,+99-477-3815034,mideasttrade@trade.org,2017,Gold
+CUST0104,FarEast Imports 104,NL,+40-210-1430812,fareastimpor@outlook.com,2017,Platinum
+CUST0105,WestCoast Freight 105,KR,+92-303-2275009,westcoastfre@trade.org,2019,Silver
+CUST0106,EuroTrade GmbH 106,DE,+90-891-6059717,eurotradegmb@biz.com,2017,Gold
+CUST0107,AsiaLink Exports 107,JP,+6-455-9937982,asialinkexpo@company.net,2018,Bronze
+CUST0108,GlobalMart Inc 108,DE,+65-763-6724909,globalmartin@gmail.com,2014,Platinum
+CUST0109,PrimeCargo Solutions 109,DE,+56-470-8713146,primecargoso@biz.com,2010,Platinum
+CUST0110,ArcticFreight 110,NL,+94-634-5531230,arcticfreigh@trade.org,2020,Platinum
+CUST0111,SunRise Imports 111,FR,+56-945-5502929,sunriseimpor@outlook.com,2011,Gold
+CUST0112,CrossOcean Ltd 112,CN,+58-349-8796514,crossoceanlt@trade.org,2017,Platinum
+CUST0113,StarPort Traders 113,SG,+4-606-6452832,starporttrad@yahoo.com,2015,Silver
+CUST0114,MountainPeak Co 114,SG,+34-448-5691890,mountainpeak@trade.org,2019,Bronze
+CUST0115,SilverLine Exports 115,GB,+2-629-4205394,silverlineex@gmail.com,2011,Platinum
+CUST0116,BlueSky Logistics 116,FR,+72-876-5031966,blueskylogis@biz.com,2015,Platinum
+CUST0117,IronGate Trading 117,FR,+3-195-5936453,irongatetrad@yahoo.com,2014,Silver
+CUST0118,CopperCoast Inc 118,CN,+85-695-7191135,coppercoasti@company.net,2016,Bronze
+CUST0119,GoldenRoute Ltd 119,KR,+96-663-6549757,goldenroutel@outlook.com,2019,Platinum
+CUST0120,BlueSea Imports 120,CN,+40-357-4867786,blueseaimpor@gmail.com,2019,Silver
+CUST0121,GreenPath Exports 121,SG,+16-860-9990305,greenpathexp@biz.com,2010,Silver
+CUST0122,SilkRoute Trading 122,AE,+95-595-5638893,silkroutetra@biz.com,2017,Bronze
+CUST0123,PacificRim Logistics 123,DE,+25-403-4816534,pacificrimlo@outlook.com,2010,Bronze
+CUST0124,AtlanticCargo Co 124,US,+91-646-3123709,atlanticcarg@outlook.com,2008,Gold
+CUST0125,Nordic Trade Ltd 125,GB,+38-814-3118618,nordictradel@biz.com,2020,Platinum
+CUST0126,Horizon Freight 126,DE,+2-687-5770422,horizonfreig@company.net,2015,Platinum
+CUST0127,Delta Distributors 127,SG,+24-152-5235884,deltadistrib@company.net,2009,Gold
+CUST0128,Pinnacle Imports 128,KR,+63-175-1899411,pinnacleimpo@yahoo.com,2010,Bronze
+CUST0129,RedStar Exports 129,DE,+32-221-7982241,redstarexpor@trade.org,2017,Silver
+CUST0130,Summit Supply Chain 130,GB,+49-561-8427625,summitsupply@outlook.com,2017,Platinum
+CUST0131,ClearWater Trading 131,CN,+73-735-2010496,clearwatertr@trade.org,2019,Gold
+CUST0132,TropicCargo Ltd 132,AE,+81-316-5440025,tropiccargol@biz.com,2009,Silver
+CUST0133,MidEast Traders 133,AE,+23-665-2259379,mideasttrade@yahoo.com,2008,Platinum
+CUST0134,FarEast Imports 134,FR,+89-708-8883823,fareastimpor@outlook.com,2008,Silver
+CUST0135,WestCoast Freight 135,CN,+91-389-8617381,westcoastfre@gmail.com,2018,Silver
+CUST0136,EuroTrade GmbH 136,CN,+81-703-4318855,eurotradegmb@company.net,2009,Silver
+CUST0137,AsiaLink Exports 137,NL,+35-946-3386328,asialinkexpo@gmail.com,2008,Silver
+CUST0138,GlobalMart Inc 138,CN,+77-866-5842082,globalmartin@company.net,2009,Platinum
+CUST0139,PrimeCargo Solutions 139,CN,+90-512-5567533,primecargoso@trade.org,2016,Platinum
+CUST0140,ArcticFreight 140,FR,+11-712-1668752,arcticfreigh@company.net,2019,Bronze
+CUST0141,SunRise Imports 141,JP,+33-126-2532210,sunriseimpor@yahoo.com,2018,Gold
+CUST0142,CrossOcean Ltd 142,CN,+74-141-3939212,crossoceanlt@company.net,2016,Platinum
+CUST0143,StarPort Traders 143,CN,+24-699-8312936,starporttrad@biz.com,2015,Gold
+CUST0144,MountainPeak Co 144,FR,+45-518-6591986,mountainpeak@outlook.com,2018,Gold
+CUST0145,SilverLine Exports 145,NL,+43-521-9312590,silverlineex@outlook.com,2018,Platinum
+CUST0146,BlueSky Logistics 146,GB,+5-565-2477398,blueskylogis@outlook.com,2012,Bronze
+CUST0147,IronGate Trading 147,DE,+99-513-9633492,irongatetrad@gmail.com,2018,Platinum
+CUST0148,CopperCoast Inc 148,KR,+7-292-9697969,coppercoasti@outlook.com,2017,Platinum
+CUST0149,GoldenRoute Ltd 149,FR,+98-152-4415140,goldenroutel@outlook.com,2016,Silver
+CUST0150,BlueSea Imports 150,CN,+57-815-9132114,blueseaimpor@gmail.com,2008,Silver
+CUST0151,GreenPath Exports 151,NL,+40-664-1229419,greenpathexp@trade.org,2014,Gold
+CUST0152,SilkRoute Trading 152,AE,+15-572-2970754,silkroutetra@biz.com,2010,Platinum
+CUST0153,PacificRim Logistics 153,CN,+66-822-5587308,pacificrimlo@company.net,2015,Platinum
+CUST0154,AtlanticCargo Co 154,AE,+59-664-3426689,atlanticcarg@company.net,2011,Silver
+CUST0155,Nordic Trade Ltd 155,DE,+36-891-7961578,nordictradel@outlook.com,2020,Bronze
+CUST0156,Horizon Freight 156,US,+37-843-6008935,horizonfreig@trade.org,2017,Platinum
+CUST0157,Delta Distributors 157,NL,+58-651-9125900,deltadistrib@outlook.com,2013,Platinum
+CUST0158,Pinnacle Imports 158,FR,+42-990-4165061,pinnacleimpo@biz.com,2011,Platinum
+CUST0159,RedStar Exports 159,AE,+53-144-6338112,redstarexpor@biz.com,2015,Platinum
+CUST0160,Summit Supply Chain 160,KR,+85-911-3551903,summitsupply@company.net,2008,Silver
+CUST0161,ClearWater Trading 161,GB,+76-439-2683838,clearwatertr@company.net,2009,Platinum
+CUST0162,TropicCargo Ltd 162,US,+93-247-7878299,tropiccargol@biz.com,2010,Gold
+CUST0163,MidEast Traders 163,FR,+34-446-7668663,mideasttrade@biz.com,2009,Bronze
+CUST0164,FarEast Imports 164,GB,+49-424-9186400,fareastimpor@trade.org,2008,Gold
+CUST0165,WestCoast Freight 165,AE,+81-800-5821419,westcoastfre@yahoo.com,2019,Gold
+CUST0166,EuroTrade GmbH 166,KR,+13-878-2686231,eurotradegmb@company.net,2010,Bronze
+CUST0167,AsiaLink Exports 167,US,+6-432-1941524,asialinkexpo@outlook.com,2013,Bronze
+CUST0168,GlobalMart Inc 168,KR,+19-350-9911492,globalmartin@company.net,2017,Silver
+CUST0169,PrimeCargo Solutions 169,NL,+23-180-7418028,primecargoso@trade.org,2018,Silver
+CUST0170,ArcticFreight 170,FR,+75-246-4895475,arcticfreigh@company.net,2018,Bronze
+CUST0171,SunRise Imports 171,FR,+33-782-1157662,sunriseimpor@company.net,2012,Silver
+CUST0172,CrossOcean Ltd 172,DE,+57-453-6018975,crossoceanlt@biz.com,2014,Bronze
+CUST0173,StarPort Traders 173,FR,+39-303-7454081,starporttrad@company.net,2009,Silver
+CUST0174,MountainPeak Co 174,KR,+74-467-5963914,mountainpeak@biz.com,2012,Gold
+CUST0175,SilverLine Exports 175,KR,+36-108-1822825,silverlineex@trade.org,2019,Platinum
+CUST0176,BlueSky Logistics 176,CN,+30-721-6910964,blueskylogis@yahoo.com,2018,Silver
+CUST0177,IronGate Trading 177,JP,+33-794-3294774,irongatetrad@biz.com,2009,Gold
+CUST0178,CopperCoast Inc 178,CN,+57-134-7121355,coppercoasti@biz.com,2010,Gold
+CUST0179,GoldenRoute Ltd 179,CN,+42-865-7970985,goldenroutel@yahoo.com,2011,Silver
+CUST0180,BlueSea Imports 180,GB,+47-643-9418719,blueseaimpor@outlook.com,2010,Bronze
+CUST0181,GreenPath Exports 181,FR,+38-864-6682698,greenpathexp@gmail.com,2015,Gold
+CUST0182,SilkRoute Trading 182,NL,+97-331-7667458,silkroutetra@trade.org,2013,Gold
+CUST0183,PacificRim Logistics 183,KR,+2-370-3073474,pacificrimlo@company.net,2013,Bronze
+CUST0184,AtlanticCargo Co 184,JP,+49-942-7232293,atlanticcarg@gmail.com,2018,Silver
+CUST0185,Nordic Trade Ltd 185,FR,+4-734-6503032,nordictradel@trade.org,2011,Gold
+CUST0186,Horizon Freight 186,FR,+90-409-7850067,horizonfreig@gmail.com,2010,Gold
+CUST0187,Delta Distributors 187,US,+39-604-2948178,deltadistrib@gmail.com,2011,Silver
+CUST0188,Pinnacle Imports 188,KR,+59-479-8031780,pinnacleimpo@trade.org,2019,Silver
+CUST0189,RedStar Exports 189,KR,+84-201-9209880,redstarexpor@trade.org,2014,Bronze
+CUST0190,Summit Supply Chain 190,US,+89-479-4645180,summitsupply@company.net,2015,Silver
+CUST0191,ClearWater Trading 191,SG,+13-802-7162857,clearwatertr@trade.org,2018,Bronze
+CUST0192,TropicCargo Ltd 192,US,+51-382-4184459,tropiccargol@gmail.com,2015,Gold
+CUST0193,MidEast Traders 193,AE,+83-754-1358318,mideasttrade@gmail.com,2020,Bronze
+CUST0194,FarEast Imports 194,AE,+17-905-4442778,fareastimpor@gmail.com,2020,Silver
+CUST0195,WestCoast Freight 195,JP,+28-932-4909069,westcoastfre@outlook.com,2020,Silver
+CUST0196,EuroTrade GmbH 196,JP,+1-383-3427461,eurotradegmb@yahoo.com,2016,Bronze
+CUST0197,AsiaLink Exports 197,NL,+15-776-1432519,asialinkexpo@yahoo.com,2008,Bronze
+CUST0198,GlobalMart Inc 198,AE,+76-431-1264762,globalmartin@yahoo.com,2012,Gold
+CUST0199,PrimeCargo Solutions 199,NL,+95-531-9826250,primecargoso@gmail.com,2019,Gold
+CUST0200,ArcticFreight 200,FR,+58-896-7074006,arcticfreigh@trade.org,2017,Gold
+CUST0201,SunRise Imports 201,FR,+65-326-1727544,sunriseimpor@biz.com,2020,Bronze
+CUST0202,CrossOcean Ltd 202,FR,+83-131-2020480,crossoceanlt@company.net,2014,Platinum
+CUST0203,StarPort Traders 203,DE,+63-829-8441741,starporttrad@gmail.com,2009,Bronze
+CUST0204,MountainPeak Co 204,JP,+19-167-3117143,mountainpeak@outlook.com,2017,Bronze
+CUST0205,SilverLine Exports 205,KR,+77-643-5947563,silverlineex@company.net,2016,Platinum
+CUST0206,BlueSky Logistics 206,DE,+90-217-4607488,blueskylogis@company.net,2015,Silver
+CUST0207,IronGate Trading 207,KR,+44-947-8608449,irongatetrad@company.net,2014,Gold
+CUST0208,CopperCoast Inc 208,SG,+55-420-5276341,coppercoasti@outlook.com,2010,Platinum
+CUST0209,GoldenRoute Ltd 209,DE,+12-951-2432176,goldenroutel@gmail.com,2014,Gold
+CUST0210,BlueSea Imports 210,SG,+17-669-2006313,blueseaimpor@trade.org,2016,Bronze
+CUST0211,GreenPath Exports 211,DE,+53-462-8095702,greenpathexp@biz.com,2008,Bronze
+CUST0212,SilkRoute Trading 212,JP,+40-460-2738129,silkroutetra@trade.org,2016,Silver
+CUST0213,PacificRim Logistics 213,NL,+85-593-4762204,pacificrimlo@gmail.com,2013,Bronze
+CUST0214,AtlanticCargo Co 214,DE,+98-385-4794319,atlanticcarg@company.net,2016,Gold
+CUST0215,Nordic Trade Ltd 215,JP,+85-949-5487028,nordictradel@gmail.com,2010,Bronze
+CUST0216,Horizon Freight 216,CN,+44-459-1102438,horizonfreig@yahoo.com,2010,Platinum
+CUST0217,Delta Distributors 217,DE,+19-858-1514340,deltadistrib@gmail.com,2019,Silver
+CUST0218,Pinnacle Imports 218,KR,+54-564-6719285,pinnacleimpo@yahoo.com,2013,Bronze
+CUST0219,RedStar Exports 219,SG,+73-710-2425342,redstarexpor@gmail.com,2010,Silver
+CUST0220,Summit Supply Chain 220,JP,+7-790-2368710,summitsupply@outlook.com,2015,Platinum
+CUST0221,ClearWater Trading 221,FR,+78-552-7948850,clearwatertr@outlook.com,2011,Gold
+CUST0222,TropicCargo Ltd 222,SG,+56-213-5752087,tropiccargol@biz.com,2018,Platinum
+CUST0223,MidEast Traders 223,GB,+86-415-1761976,mideasttrade@yahoo.com,2014,Gold
+CUST0224,FarEast Imports 224,US,+27-408-4543918,fareastimpor@yahoo.com,2020,Bronze
+CUST0225,WestCoast Freight 225,CN,+42-222-1129686,westcoastfre@company.net,2019,Platinum
+CUST0226,EuroTrade GmbH 226,NL,+17-489-9935249,eurotradegmb@biz.com,2011,Bronze
+CUST0227,AsiaLink Exports 227,DE,+51-982-1709714,asialinkexpo@company.net,2008,Platinum
+CUST0228,GlobalMart Inc 228,DE,+41-689-8202195,globalmartin@trade.org,2014,Platinum
+CUST0229,PrimeCargo Solutions 229,CN,+15-514-1349914,primecargoso@outlook.com,2010,Platinum
+CUST0230,ArcticFreight 230,SG,+12-547-2776088,arcticfreigh@yahoo.com,2014,Platinum
+CUST0231,SunRise Imports 231,GB,+11-505-6205543,sunriseimpor@biz.com,2013,Silver
+CUST0232,CrossOcean Ltd 232,SG,+22-178-9564488,crossoceanlt@biz.com,2009,Silver
+CUST0233,StarPort Traders 233,SG,+45-844-3477824,starporttrad@yahoo.com,2009,Silver
+CUST0234,MountainPeak Co 234,CN,+26-277-3564729,mountainpeak@biz.com,2009,Silver
+CUST0235,SilverLine Exports 235,FR,+60-872-8531380,silverlineex@biz.com,2017,Bronze
+CUST0236,BlueSky Logistics 236,SG,+20-550-2145653,blueskylogis@company.net,2015,Bronze
+CUST0237,IronGate Trading 237,CN,+76-157-6904610,irongatetrad@trade.org,2009,Bronze
+CUST0238,CopperCoast Inc 238,FR,+58-138-1954456,coppercoasti@outlook.com,2012,Gold
+CUST0239,GoldenRoute Ltd 239,DE,+79-708-9507186,goldenroutel@company.net,2015,Gold
+CUST0240,BlueSea Imports 240,FR,+74-767-4158134,blueseaimpor@outlook.com,2017,Platinum
+CUST0241,GreenPath Exports 241,GB,+20-163-8558523,greenpathexp@gmail.com,2020,Bronze
+CUST0242,SilkRoute Trading 242,DE,+65-761-3895058,silkroutetra@gmail.com,2011,Platinum
+CUST0243,PacificRim Logistics 243,FR,+68-635-3663319,pacificrimlo@outlook.com,2013,Bronze
+CUST0244,AtlanticCargo Co 244,KR,+53-893-6676858,atlanticcarg@biz.com,2017,Gold
+CUST0245,Nordic Trade Ltd 245,SG,+9-437-2585546,nordictradel@trade.org,2018,Platinum
+CUST0246,Horizon Freight 246,CN,+33-841-3522845,horizonfreig@outlook.com,2009,Silver
+CUST0247,Delta Distributors 247,SG,+40-771-7575963,deltadistrib@yahoo.com,2017,Gold
+CUST0248,Pinnacle Imports 248,CN,+72-485-6510922,pinnacleimpo@yahoo.com,2018,Gold
+CUST0249,RedStar Exports 249,KR,+66-470-1305857,redstarexpor@outlook.com,2012,Silver
+CUST0250,Summit Supply Chain 250,AE,+44-884-9158272,summitsupply@yahoo.com,2011,Silver
+CUST0251,ClearWater Trading 251,NL,+10-402-2696860,clearwatertr@trade.org,2020,Gold
+CUST0252,TropicCargo Ltd 252,SG,+99-732-3198638,tropiccargol@trade.org,2014,Silver
+CUST0253,MidEast Traders 253,NL,+24-951-3777286,mideasttrade@biz.com,2015,Gold
+CUST0254,FarEast Imports 254,KR,+47-792-4985095,fareastimpor@company.net,2017,Bronze
+CUST0255,WestCoast Freight 255,FR,+30-646-5012581,westcoastfre@outlook.com,2020,Platinum
+CUST0256,EuroTrade GmbH 256,AE,+48-794-8391997,eurotradegmb@company.net,2020,Bronze
+CUST0257,AsiaLink Exports 257,KR,+65-640-8023963,asialinkexpo@yahoo.com,2011,Silver
+CUST0258,GlobalMart Inc 258,CN,+7-756-9062973,globalmartin@outlook.com,2016,Gold
+CUST0259,PrimeCargo Solutions 259,GB,+16-391-2407191,primecargoso@yahoo.com,2012,Platinum
+CUST0260,ArcticFreight 260,GB,+19-950-8339571,arcticfreigh@gmail.com,2011,Platinum
+CUST0261,SunRise Imports 261,SG,+4-524-1893502,sunriseimpor@company.net,2016,Bronze
+CUST0262,CrossOcean Ltd 262,AE,+50-183-7289990,crossoceanlt@yahoo.com,2008,Bronze
+CUST0263,StarPort Traders 263,DE,+92-765-6625238,starporttrad@yahoo.com,2010,Gold
+CUST0264,MountainPeak Co 264,CN,+61-812-3328554,mountainpeak@biz.com,2015,Platinum
+CUST0265,SilverLine Exports 265,JP,+1-181-1318832,silverlineex@outlook.com,2011,Silver
+CUST0266,BlueSky Logistics 266,GB,+94-723-9854536,blueskylogis@company.net,2009,Bronze
+CUST0267,IronGate Trading 267,AE,+39-224-1801102,irongatetrad@yahoo.com,2014,Platinum
+CUST0268,CopperCoast Inc 268,DE,+15-956-9385742,coppercoasti@trade.org,2016,Gold
+CUST0269,GoldenRoute Ltd 269,GB,+74-347-3408819,goldenroutel@outlook.com,2014,Gold
+CUST0270,BlueSea Imports 270,JP,+46-346-7988844,blueseaimpor@yahoo.com,2018,Gold
+CUST0271,GreenPath Exports 271,GB,+47-169-9825812,greenpathexp@trade.org,2016,Gold
+CUST0272,SilkRoute Trading 272,KR,+61-144-7490791,silkroutetra@outlook.com,2012,Gold
+CUST0273,PacificRim Logistics 273,SG,+9-453-5045421,pacificrimlo@biz.com,2018,Gold
+CUST0274,AtlanticCargo Co 274,JP,+95-874-6578736,atlanticcarg@yahoo.com,2008,Bronze
+CUST0275,Nordic Trade Ltd 275,GB,+44-933-3937508,nordictradel@biz.com,2015,Platinum
+CUST0276,Horizon Freight 276,NL,+18-164-8678589,horizonfreig@gmail.com,2012,Silver
+CUST0277,Delta Distributors 277,US,+26-142-6294819,deltadistrib@outlook.com,2016,Platinum
+CUST0278,Pinnacle Imports 278,GB,+61-359-1614394,pinnacleimpo@biz.com,2011,Bronze
+CUST0279,RedStar Exports 279,SG,+7-986-6568772,redstarexpor@outlook.com,2009,Bronze
+CUST0280,Summit Supply Chain 280,KR,+52-861-8377556,summitsupply@company.net,2013,Silver
+CUST0281,ClearWater Trading 281,FR,+89-609-7163058,clearwatertr@trade.org,2012,Gold
+CUST0282,TropicCargo Ltd 282,KR,+11-540-4027557,tropiccargol@trade.org,2012,Bronze
+CUST0283,MidEast Traders 283,DE,+11-435-5960015,mideasttrade@outlook.com,2015,Platinum
+CUST0284,FarEast Imports 284,NL,+89-554-6897979,fareastimpor@company.net,2008,Bronze
+CUST0285,WestCoast Freight 285,JP,+56-381-1962308,westcoastfre@gmail.com,2018,Platinum
+CUST0286,EuroTrade GmbH 286,SG,+66-920-3684131,eurotradegmb@gmail.com,2010,Platinum
+CUST0287,AsiaLink Exports 287,US,+17-168-4959345,asialinkexpo@biz.com,2013,Bronze
+CUST0288,GlobalMart Inc 288,KR,+73-133-3574265,globalmartin@biz.com,2015,Bronze
+CUST0289,PrimeCargo Solutions 289,SG,+57-881-2289923,primecargoso@trade.org,2010,Bronze
+CUST0290,ArcticFreight 290,KR,+41-765-5675638,arcticfreigh@yahoo.com,2009,Gold
+CUST0291,SunRise Imports 291,NL,+64-630-7492570,sunriseimpor@trade.org,2009,Bronze
+CUST0292,CrossOcean Ltd 292,CN,+91-556-4599894,crossoceanlt@trade.org,2012,Platinum
+CUST0293,StarPort Traders 293,AE,+16-238-2242387,starporttrad@company.net,2010,Platinum
+CUST0294,MountainPeak Co 294,DE,+88-965-6361793,mountainpeak@biz.com,2013,Gold
+CUST0295,SilverLine Exports 295,GB,+70-397-6032437,silverlineex@yahoo.com,2019,Silver
+CUST0296,BlueSky Logistics 296,SG,+66-329-3036124,blueskylogis@yahoo.com,2020,Silver
+CUST0297,IronGate Trading 297,AE,+64-126-7054838,irongatetrad@trade.org,2017,Bronze
+CUST0298,CopperCoast Inc 298,FR,+71-232-2446455,coppercoasti@gmail.com,2012,Platinum
+CUST0299,GoldenRoute Ltd 299,FR,+68-520-7869154,goldenroutel@trade.org,2009,Silver
+CUST0300,BlueSea Imports 300,SG,+83-175-8549319,blueseaimpor@company.net,2018,Bronze

@@ -1,0 +1,58 @@
+# ============================================================
+# HarborIQ — Python Dependencies
+# Maritime Shipping Intelligence Platform
+# ============================================================
+# Install with: pip install -r requirements.txt
+# Recommended: use a virtual environment
+#   python -m venv venv && venv\Scripts\activate  (Windows)
+#   python -m venv venv && source venv/bin/activate (Mac/Linux)
+# ============================================================
+
+# ── Core Data Processing ──────────────────────────────────
+pandas>=2.0.0                   # DataFrame operations and data manipulation
+numpy>=1.24.0                   # Numerical computing and array operations
+
+# ── Data Visualization ───────────────────────────────────
+matplotlib>=3.7.0               # Base plotting library
+seaborn>=0.12.0                 # Statistical visualizations and heatmaps
+
+# ── Jupyter Notebook Environment ─────────────────────────
+jupyter>=1.0.0                  # Jupyter Notebook launcher
+jupyterlab>=4.0.0               # JupyterLab IDE (modern notebook interface)
+ipykernel>=6.0.0                # IPython kernel for Jupyter
+ipywidgets>=8.0.0               # Interactive widgets in notebooks
+nbformat>=5.7.0                 # Notebook format utilities
+
+# ── Database Connectivity ─────────────────────────────────
+mysql-connector-python>=8.0.0   # MySQL database connector (official)
+PyMySQL>=1.1.0                  # Pure Python MySQL client (alternative)
+SQLAlchemy>=2.0.0               # SQL ORM and database abstraction layer
+
+# ── Statistical Analysis ──────────────────────────────────
+scipy>=1.10.0                   # Statistical tests and scientific computing
+
+# ── Data Profiling & EDA ─────────────────────────────────
+ydata-profiling>=4.5.0          # Automated EDA reports (formerly pandas-profiling)
+
+# ── File Format Support ───────────────────────────────────
+openpyxl>=3.1.0                 # Excel file read/write support
+xlrd>=2.0.1                     # Legacy Excel (.xls) file reading
+python-dotenv>=1.0.0            # Environment variable management (.env files)
+
+# ── Utilities ─────────────────────────────────────────────
+tqdm>=4.65.0                    # Progress bars for long-running operations
+colorama>=0.4.6                 # Terminal color output (Windows compatibility)
+tabulate>=0.9.0                 # Pretty-print tabular data in terminal
+
+# ── Optional: Machine Learning (for future predictive models) ──
+# scikit-learn>=1.3.0           # ML algorithms (Random Forest, XGBoost wrapper)
+# xgboost>=1.7.0                # XGBoost for delay prediction models
+# lightgbm>=4.0.0               # LightGBM for fast gradient boosting
+
+# ── Optional: Advanced Visualization ─────────────────────
+# plotly>=5.15.0                # Interactive charts
+# dash>=2.12.0                  # Web-based interactive dashboards
+
+# ============================================================
+# Python Version Requirement: >= 3.9
+# ============================================================
