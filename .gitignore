@@ -2,9 +2,8 @@
 # HarborIQ — .gitignore
 # ============================================================
 
-# ── Large raw data files (exceed GitHub's 100MB limit) ───
-Dataset/shipments.csv
-Dataset/cleaned_shipments.csv
+# ── Large raw data files managed via Git LFS ─────────────
+# (tracked in .gitattributes — no longer excluded)
 
 # ── Python cache & environment ────────────────────────────
 __pycache__/
