@@ -290,6 +290,29 @@ For the full analysis, see [Business_Insights.docx](Business%20Insights/Business
 
 ---
 
+## 📸 Dashboard Screenshots
+
+### 🔵 Executive Overview Dashboard
+> KPIs · Monthly Revenue Trend · Carrier Revenue · Shipment Distribution · Top Origin Countries
+
+![Executive Overview Dashboard](PowerBI%20Dashboards/images/dashboard_executive_overview.png)
+
+---
+
+### 🟢 Operations Dashboard
+> On-Time Delivery · Delay Analysis by Carrier & Port · Cargo/Container Performance · World Map · Key Insights
+
+![Operations Dashboard](PowerBI%20Dashboards/images/dashboard_operations.png)
+
+---
+
+### 🟣 Customer & Financial Analytics
+> Customer Revenue · Revenue by Country & Carrier · Cargo Type Breakdown · Monthly Trend · Shipment Value Distribution
+
+![Customer & Financial Analytics](PowerBI%20Dashboards/images/dashboard_customer_financial.png)
+
+---
+
 ## 🤝 Contributing
 
 Contributions, bug reports, and suggestions are welcome!
